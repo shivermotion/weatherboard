@@ -1,0 +1,16 @@
+{
+  "name": "weatherboard",
+  "version": "1.0.0",
+  "description": "-[description](#description) -[installation](#installation) -[usage](#usage) -[licenses](#licenses) -[contribution](#contribution) -[test](#test) -[username](#username) -[profile](#profile)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "expresss": "0.0.0"
+  }
+}
